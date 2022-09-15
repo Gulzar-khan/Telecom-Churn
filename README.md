@@ -54,10 +54,17 @@ It will be interesting to explore what all other insights can be obtained from t
 
 📖 Conclusion: Our main goal in this project was to determine different affecting to churn, which we have done.
 
-After using the Exploratory data analysis and the elbow method, we found that 28 clusters would be suitable.
-
-From data visualization, found that Customers with the international plan have a higher churn rate compared to customers without an international plan .
+After using the Exploratory data analysis and data visualization,we found that Customers with the international plan have a higher churn rate compared to customers without an international plan .
 
 The telecommunication industry can avoid churn by such analysis and predicting factors for customer churn.
 
-This type of EDA research in the telecom segment helps companies to gain more profit. Predicting churn is a very important factor for telecom companies
+This type of EDA research in the telecom segment helps companies to gain more profit. Predicting churn is a very important factor for telecom companies----
+
+
+Here is our suggestion to prevent churn :
+1. Upgrading network to improve services for long duration users.
+2. Improving Pricing Strategies.
+3. Optimizing and Updating International Call Rates.
+4. Implmenting a better network infrastructure in New Jersey,Texas and Maryland Areas where there is more Churn Rate.
+6. Improvement in the customer service can be done to reduce the number of calls which cause the churn
+7. Decreasing the prices as the talk-time increases can be an effective way to reduce the churn.
