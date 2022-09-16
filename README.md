@@ -52,6 +52,19 @@ The task was to understand the data and identify the factors behind the customer
 
 It will be interesting to explore what all other insights can be obtained from the same dataset.
 
+📖 Approach:  
+We will divide this project into three steps for reproductive analysis.
+
+As the first step we will be cleaning the churn dataset which was provided by The Orange Telecom and dropping some unnecessary column.
+
+In the second step finding the number and percentage of churned and non-churned customer by using churn column and finding top 10 states of most churned users regarding that.
+
+In the third step we will analyze the data per column in respect of churn column and draw some plots and charts for better visualization. In this step we will also try to making some relation between states and churned customer and will find top ten states for them.
+
+Based on above analysis we will find some key factors which are responsible for customer churn and makes some recommendations according to that. These recommendations helps The Orange S.A. to ensure their customer retention and working accordingly.
+
+
+
 📖 Conclusion: Our main goal in this project was to determine different affecting to churn, which we have done.
 
 After using the Exploratory data analysis and data visualization,we found that Customers with the international plan have a higher churn rate compared to customers without an international plan .
